@@ -1,0 +1,14 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+python-multipart==0.0.9
+
+tensorflow==2.20.0
+
+numpy==1.26.4
+h5py==3.14.0
+pillow==10.4.0
+
+pydantic==2.8.2
+starlette==0.38.5
+
+requests==2.32.3

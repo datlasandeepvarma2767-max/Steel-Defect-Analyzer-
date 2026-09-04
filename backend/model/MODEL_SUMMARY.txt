@@ -1,0 +1,277 @@
+Steel Defect Analysis Model -- Weight Summary
+============================================================
+Source file: steel_weights.weights.h5
+Total weight tensors: 270
+Total trainable parameters: 2,624,710
+============================================================
+
+layers/batch_normalization/vars/0                                      shape=(1280,)              dtype=float32    params=1,280
+layers/batch_normalization/vars/1                                      shape=(1280,)              dtype=float32    params=1,280
+layers/batch_normalization/vars/2                                      shape=(1280,)              dtype=float32    params=1,280
+layers/batch_normalization/vars/3                                      shape=(1280,)              dtype=float32    params=1,280
+layers/dense/vars/0                                                    shape=(1280, 256)          dtype=float32    params=327,680
+layers/dense/vars/1                                                    shape=(256,)               dtype=float32    params=256
+layers/dense_1/vars/0                                                  shape=(256, 128)           dtype=float32    params=32,768
+layers/dense_1/vars/1                                                  shape=(128,)               dtype=float32    params=128
+layers/dense_2/vars/0                                                  shape=(128, 6)             dtype=float32    params=768
+layers/dense_2/vars/1                                                  shape=(6,)                 dtype=float32    params=6
+layers/functional/layers/batch_normalization/vars/0                    shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization/vars/1                    shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization/vars/2                    shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization/vars/3                    shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization_1/vars/0                  shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization_1/vars/1                  shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization_1/vars/2                  shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization_1/vars/3                  shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization_10/vars/0                 shape=(144,)               dtype=float32    params=144
+layers/functional/layers/batch_normalization_10/vars/1                 shape=(144,)               dtype=float32    params=144
+layers/functional/layers/batch_normalization_10/vars/2                 shape=(144,)               dtype=float32    params=144
+layers/functional/layers/batch_normalization_10/vars/3                 shape=(144,)               dtype=float32    params=144
+layers/functional/layers/batch_normalization_11/vars/0                 shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization_11/vars/1                 shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization_11/vars/2                 shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization_11/vars/3                 shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization_12/vars/0                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_12/vars/1                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_12/vars/2                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_12/vars/3                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_13/vars/0                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_13/vars/1                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_13/vars/2                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_13/vars/3                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_14/vars/0                 shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization_14/vars/1                 shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization_14/vars/2                 shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization_14/vars/3                 shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization_15/vars/0                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_15/vars/1                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_15/vars/2                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_15/vars/3                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_16/vars/0                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_16/vars/1                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_16/vars/2                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_16/vars/3                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_17/vars/0                 shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization_17/vars/1                 shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization_17/vars/2                 shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization_17/vars/3                 shape=(32,)                dtype=float32    params=32
+layers/functional/layers/batch_normalization_18/vars/0                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_18/vars/1                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_18/vars/2                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_18/vars/3                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_19/vars/0                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_19/vars/1                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_19/vars/2                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_19/vars/3                 shape=(192,)               dtype=float32    params=192
+layers/functional/layers/batch_normalization_2/vars/0                  shape=(16,)                dtype=float32    params=16
+layers/functional/layers/batch_normalization_2/vars/1                  shape=(16,)                dtype=float32    params=16
+layers/functional/layers/batch_normalization_2/vars/2                  shape=(16,)                dtype=float32    params=16
+layers/functional/layers/batch_normalization_2/vars/3                  shape=(16,)                dtype=float32    params=16
+layers/functional/layers/batch_normalization_20/vars/0                 shape=(64,)                dtype=float32    params=64
+layers/functional/layers/batch_normalization_20/vars/1                 shape=(64,)                dtype=float32    params=64
+layers/functional/layers/batch_normalization_20/vars/2                 shape=(64,)                dtype=float32    params=64
+layers/functional/layers/batch_normalization_20/vars/3                 shape=(64,)                dtype=float32    params=64
+layers/functional/layers/batch_normalization_21/vars/0                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_21/vars/1                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_21/vars/2                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_21/vars/3                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_22/vars/0                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_22/vars/1                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_22/vars/2                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_22/vars/3                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_23/vars/0                 shape=(64,)                dtype=float32    params=64
+layers/functional/layers/batch_normalization_23/vars/1                 shape=(64,)                dtype=float32    params=64
+layers/functional/layers/batch_normalization_23/vars/2                 shape=(64,)                dtype=float32    params=64
+layers/functional/layers/batch_normalization_23/vars/3                 shape=(64,)                dtype=float32    params=64
+layers/functional/layers/batch_normalization_24/vars/0                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_24/vars/1                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_24/vars/2                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_24/vars/3                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_25/vars/0                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_25/vars/1                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_25/vars/2                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_25/vars/3                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_26/vars/0                 shape=(64,)                dtype=float32    params=64
+layers/functional/layers/batch_normalization_26/vars/1                 shape=(64,)                dtype=float32    params=64
+layers/functional/layers/batch_normalization_26/vars/2                 shape=(64,)                dtype=float32    params=64
+layers/functional/layers/batch_normalization_26/vars/3                 shape=(64,)                dtype=float32    params=64
+layers/functional/layers/batch_normalization_27/vars/0                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_27/vars/1                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_27/vars/2                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_27/vars/3                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_28/vars/0                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_28/vars/1                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_28/vars/2                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_28/vars/3                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_29/vars/0                 shape=(64,)                dtype=float32    params=64
+layers/functional/layers/batch_normalization_29/vars/1                 shape=(64,)                dtype=float32    params=64
+layers/functional/layers/batch_normalization_29/vars/2                 shape=(64,)                dtype=float32    params=64
+layers/functional/layers/batch_normalization_29/vars/3                 shape=(64,)                dtype=float32    params=64
+layers/functional/layers/batch_normalization_3/vars/0                  shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_3/vars/1                  shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_3/vars/2                  shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_3/vars/3                  shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_30/vars/0                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_30/vars/1                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_30/vars/2                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_30/vars/3                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_31/vars/0                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_31/vars/1                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_31/vars/2                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_31/vars/3                 shape=(384,)               dtype=float32    params=384
+layers/functional/layers/batch_normalization_32/vars/0                 shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_32/vars/1                 shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_32/vars/2                 shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_32/vars/3                 shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_33/vars/0                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_33/vars/1                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_33/vars/2                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_33/vars/3                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_34/vars/0                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_34/vars/1                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_34/vars/2                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_34/vars/3                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_35/vars/0                 shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_35/vars/1                 shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_35/vars/2                 shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_35/vars/3                 shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_36/vars/0                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_36/vars/1                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_36/vars/2                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_36/vars/3                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_37/vars/0                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_37/vars/1                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_37/vars/2                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_37/vars/3                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_38/vars/0                 shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_38/vars/1                 shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_38/vars/2                 shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_38/vars/3                 shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_39/vars/0                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_39/vars/1                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_39/vars/2                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_39/vars/3                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_4/vars/0                  shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_4/vars/1                  shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_4/vars/2                  shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_4/vars/3                  shape=(96,)                dtype=float32    params=96
+layers/functional/layers/batch_normalization_40/vars/0                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_40/vars/1                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_40/vars/2                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_40/vars/3                 shape=(576,)               dtype=float32    params=576
+layers/functional/layers/batch_normalization_41/vars/0                 shape=(160,)               dtype=float32    params=160
+layers/functional/layers/batch_normalization_41/vars/1                 shape=(160,)               dtype=float32    params=160
+layers/functional/layers/batch_normalization_41/vars/2                 shape=(160,)               dtype=float32    params=160
+layers/functional/layers/batch_normalization_41/vars/3                 shape=(160,)               dtype=float32    params=160
+layers/functional/layers/batch_normalization_42/vars/0                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_42/vars/1                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_42/vars/2                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_42/vars/3                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_43/vars/0                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_43/vars/1                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_43/vars/2                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_43/vars/3                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_44/vars/0                 shape=(160,)               dtype=float32    params=160
+layers/functional/layers/batch_normalization_44/vars/1                 shape=(160,)               dtype=float32    params=160
+layers/functional/layers/batch_normalization_44/vars/2                 shape=(160,)               dtype=float32    params=160
+layers/functional/layers/batch_normalization_44/vars/3                 shape=(160,)               dtype=float32    params=160
+layers/functional/layers/batch_normalization_45/vars/0                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_45/vars/1                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_45/vars/2                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_45/vars/3                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_46/vars/0                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_46/vars/1                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_46/vars/2                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_46/vars/3                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_47/vars/0                 shape=(160,)               dtype=float32    params=160
+layers/functional/layers/batch_normalization_47/vars/1                 shape=(160,)               dtype=float32    params=160
+layers/functional/layers/batch_normalization_47/vars/2                 shape=(160,)               dtype=float32    params=160
+layers/functional/layers/batch_normalization_47/vars/3                 shape=(160,)               dtype=float32    params=160
+layers/functional/layers/batch_normalization_48/vars/0                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_48/vars/1                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_48/vars/2                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_48/vars/3                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_49/vars/0                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_49/vars/1                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_49/vars/2                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_49/vars/3                 shape=(960,)               dtype=float32    params=960
+layers/functional/layers/batch_normalization_5/vars/0                  shape=(24,)                dtype=float32    params=24
+layers/functional/layers/batch_normalization_5/vars/1                  shape=(24,)                dtype=float32    params=24
+layers/functional/layers/batch_normalization_5/vars/2                  shape=(24,)                dtype=float32    params=24
+layers/functional/layers/batch_normalization_5/vars/3                  shape=(24,)                dtype=float32    params=24
+layers/functional/layers/batch_normalization_50/vars/0                 shape=(320,)               dtype=float32    params=320
+layers/functional/layers/batch_normalization_50/vars/1                 shape=(320,)               dtype=float32    params=320
+layers/functional/layers/batch_normalization_50/vars/2                 shape=(320,)               dtype=float32    params=320
+layers/functional/layers/batch_normalization_50/vars/3                 shape=(320,)               dtype=float32    params=320
+layers/functional/layers/batch_normalization_51/vars/0                 shape=(1280,)              dtype=float32    params=1,280
+layers/functional/layers/batch_normalization_51/vars/1                 shape=(1280,)              dtype=float32    params=1,280
+layers/functional/layers/batch_normalization_51/vars/2                 shape=(1280,)              dtype=float32    params=1,280
+layers/functional/layers/batch_normalization_51/vars/3                 shape=(1280,)              dtype=float32    params=1,280
+layers/functional/layers/batch_normalization_6/vars/0                  shape=(144,)               dtype=float32    params=144
+layers/functional/layers/batch_normalization_6/vars/1                  shape=(144,)               dtype=float32    params=144
+layers/functional/layers/batch_normalization_6/vars/2                  shape=(144,)               dtype=float32    params=144
+layers/functional/layers/batch_normalization_6/vars/3                  shape=(144,)               dtype=float32    params=144
+layers/functional/layers/batch_normalization_7/vars/0                  shape=(144,)               dtype=float32    params=144
+layers/functional/layers/batch_normalization_7/vars/1                  shape=(144,)               dtype=float32    params=144
+layers/functional/layers/batch_normalization_7/vars/2                  shape=(144,)               dtype=float32    params=144
+layers/functional/layers/batch_normalization_7/vars/3                  shape=(144,)               dtype=float32    params=144
+layers/functional/layers/batch_normalization_8/vars/0                  shape=(24,)                dtype=float32    params=24
+layers/functional/layers/batch_normalization_8/vars/1                  shape=(24,)                dtype=float32    params=24
+layers/functional/layers/batch_normalization_8/vars/2                  shape=(24,)                dtype=float32    params=24
+layers/functional/layers/batch_normalization_8/vars/3                  shape=(24,)                dtype=float32    params=24
+layers/functional/layers/batch_normalization_9/vars/0                  shape=(144,)               dtype=float32    params=144
+layers/functional/layers/batch_normalization_9/vars/1                  shape=(144,)               dtype=float32    params=144
+layers/functional/layers/batch_normalization_9/vars/2                  shape=(144,)               dtype=float32    params=144
+layers/functional/layers/batch_normalization_9/vars/3                  shape=(144,)               dtype=float32    params=144
+layers/functional/layers/conv2d/vars/0                                 shape=(3, 3, 3, 32)        dtype=float32    params=864
+layers/functional/layers/conv2d_1/vars/0                               shape=(1, 1, 32, 16)       dtype=float32    params=512
+layers/functional/layers/conv2d_10/vars/0                              shape=(1, 1, 32, 192)      dtype=float32    params=6,144
+layers/functional/layers/conv2d_11/vars/0                              shape=(1, 1, 192, 32)      dtype=float32    params=6,144
+layers/functional/layers/conv2d_12/vars/0                              shape=(1, 1, 32, 192)      dtype=float32    params=6,144
+layers/functional/layers/conv2d_13/vars/0                              shape=(1, 1, 192, 64)      dtype=float32    params=12,288
+layers/functional/layers/conv2d_14/vars/0                              shape=(1, 1, 64, 384)      dtype=float32    params=24,576
+layers/functional/layers/conv2d_15/vars/0                              shape=(1, 1, 384, 64)      dtype=float32    params=24,576
+layers/functional/layers/conv2d_16/vars/0                              shape=(1, 1, 64, 384)      dtype=float32    params=24,576
+layers/functional/layers/conv2d_17/vars/0                              shape=(1, 1, 384, 64)      dtype=float32    params=24,576
+layers/functional/layers/conv2d_18/vars/0                              shape=(1, 1, 64, 384)      dtype=float32    params=24,576
+layers/functional/layers/conv2d_19/vars/0                              shape=(1, 1, 384, 64)      dtype=float32    params=24,576
+layers/functional/layers/conv2d_2/vars/0                               shape=(1, 1, 16, 96)       dtype=float32    params=1,536
+layers/functional/layers/conv2d_20/vars/0                              shape=(1, 1, 64, 384)      dtype=float32    params=24,576
+layers/functional/layers/conv2d_21/vars/0                              shape=(1, 1, 384, 96)      dtype=float32    params=36,864
+layers/functional/layers/conv2d_22/vars/0                              shape=(1, 1, 96, 576)      dtype=float32    params=55,296
+layers/functional/layers/conv2d_23/vars/0                              shape=(1, 1, 576, 96)      dtype=float32    params=55,296
+layers/functional/layers/conv2d_24/vars/0                              shape=(1, 1, 96, 576)      dtype=float32    params=55,296
+layers/functional/layers/conv2d_25/vars/0                              shape=(1, 1, 576, 96)      dtype=float32    params=55,296
+layers/functional/layers/conv2d_26/vars/0                              shape=(1, 1, 96, 576)      dtype=float32    params=55,296
+layers/functional/layers/conv2d_27/vars/0                              shape=(1, 1, 576, 160)     dtype=float32    params=92,160
+layers/functional/layers/conv2d_28/vars/0                              shape=(1, 1, 160, 960)     dtype=float32    params=153,600
+layers/functional/layers/conv2d_29/vars/0                              shape=(1, 1, 960, 160)     dtype=float32    params=153,600
+layers/functional/layers/conv2d_3/vars/0                               shape=(1, 1, 96, 24)       dtype=float32    params=2,304
+layers/functional/layers/conv2d_30/vars/0                              shape=(1, 1, 160, 960)     dtype=float32    params=153,600
+layers/functional/layers/conv2d_31/vars/0                              shape=(1, 1, 960, 160)     dtype=float32    params=153,600
+layers/functional/layers/conv2d_32/vars/0                              shape=(1, 1, 160, 960)     dtype=float32    params=153,600
+layers/functional/layers/conv2d_33/vars/0                              shape=(1, 1, 960, 320)     dtype=float32    params=307,200
+layers/functional/layers/conv2d_34/vars/0                              shape=(1, 1, 320, 1280)    dtype=float32    params=409,600
+layers/functional/layers/conv2d_4/vars/0                               shape=(1, 1, 24, 144)      dtype=float32    params=3,456
+layers/functional/layers/conv2d_5/vars/0                               shape=(1, 1, 144, 24)      dtype=float32    params=3,456
+layers/functional/layers/conv2d_6/vars/0                               shape=(1, 1, 24, 144)      dtype=float32    params=3,456
+layers/functional/layers/conv2d_7/vars/0                               shape=(1, 1, 144, 32)      dtype=float32    params=4,608
+layers/functional/layers/conv2d_8/vars/0                               shape=(1, 1, 32, 192)      dtype=float32    params=6,144
+layers/functional/layers/conv2d_9/vars/0                               shape=(1, 1, 192, 32)      dtype=float32    params=6,144
+layers/functional/layers/depthwise_conv2d/vars/0                       shape=(3, 3, 32, 1)        dtype=float32    params=288
+layers/functional/layers/depthwise_conv2d_1/vars/0                     shape=(3, 3, 96, 1)        dtype=float32    params=864
+layers/functional/layers/depthwise_conv2d_10/vars/0                    shape=(3, 3, 384, 1)       dtype=float32    params=3,456
+layers/functional/layers/depthwise_conv2d_11/vars/0                    shape=(3, 3, 576, 1)       dtype=float32    params=5,184
+layers/functional/layers/depthwise_conv2d_12/vars/0                    shape=(3, 3, 576, 1)       dtype=float32    params=5,184
+layers/functional/layers/depthwise_conv2d_13/vars/0                    shape=(3, 3, 576, 1)       dtype=float32    params=5,184
+layers/functional/layers/depthwise_conv2d_14/vars/0                    shape=(3, 3, 960, 1)       dtype=float32    params=8,640
+layers/functional/layers/depthwise_conv2d_15/vars/0                    shape=(3, 3, 960, 1)       dtype=float32    params=8,640
+layers/functional/layers/depthwise_conv2d_16/vars/0                    shape=(3, 3, 960, 1)       dtype=float32    params=8,640
+layers/functional/layers/depthwise_conv2d_2/vars/0                     shape=(3, 3, 144, 1)       dtype=float32    params=1,296
+layers/functional/layers/depthwise_conv2d_3/vars/0                     shape=(3, 3, 144, 1)       dtype=float32    params=1,296
+layers/functional/layers/depthwise_conv2d_4/vars/0                     shape=(3, 3, 192, 1)       dtype=float32    params=1,728
+layers/functional/layers/depthwise_conv2d_5/vars/0                     shape=(3, 3, 192, 1)       dtype=float32    params=1,728
+layers/functional/layers/depthwise_conv2d_6/vars/0                     shape=(3, 3, 192, 1)       dtype=float32    params=1,728
+layers/functional/layers/depthwise_conv2d_7/vars/0                     shape=(3, 3, 384, 1)       dtype=float32    params=3,456
+layers/functional/layers/depthwise_conv2d_8/vars/0                     shape=(3, 3, 384, 1)       dtype=float32    params=3,456
+layers/functional/layers/depthwise_conv2d_9/vars/0                     shape=(3, 3, 384, 1)       dtype=float32    params=3,456
